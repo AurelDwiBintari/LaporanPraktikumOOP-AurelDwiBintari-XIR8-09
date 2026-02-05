@@ -1,0 +1,17 @@
+Uji Skalabilitas
+1. Apakah program berjalan lancar❓
+✅Ya, program berjalan lancar tanpa error walaupun ada class baru.
+2. Kesimpulan✨
+  Keuntungan Polimorfisme💫 : 
+  - Programmer tidak perlu mengubah kode utama
+  - Mudah menambah karakter baru
+  - Kode lebih fleksibel, scalable, dan rapi
+  - Cocok untuk game yang akan terus berkembang
+Konsistensi Penamaan:
+1. Apa yang terjadi❓
+Program eror karena tidak muncul
+2. Mengapa dalam Polimorfisme nama method harus sama?
+  - Looping memanggil method yang sama (serang)
+  - Jika salah satu child class tidak punya method itu → program gagal
+  - Parent dan semua Child HARUS konsisten nama method-nya
+Polimorfisme bekerja berdasarkan nama method, bukan isi method💫
